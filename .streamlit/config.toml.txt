@@ -1,0 +1,12 @@
+[server]
+port = 80
+
+[theme]
+base="dark"
+primaryColor="#eceae7"
+textColor="#e1e861"
+
+
+[background]
+image = "https://www.crowdstrike.com/wp-content/uploads/2020/11/Blog_1060x698-25-1.jpg"
+[theme]
