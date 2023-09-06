@@ -23,7 +23,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-
+st.text(' Created @ExcelR by P283/G-6')
 # Title
 st.title("Terror Attack Prediction")
 
