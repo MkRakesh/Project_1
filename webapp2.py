@@ -8,7 +8,7 @@ import streamlit as st
 import tensorflow as tf
 
 # Load your model here
-loaded_model = tf.saved_model.load("model_dense_SaveModel_format")
+loaded_model = tf.saved_model.load("model_dense_final_SaveModel_format")
 
 # Customize Streamlit app appearance
 st.markdown(
